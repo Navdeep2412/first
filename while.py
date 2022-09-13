@@ -1,0 +1,10 @@
+i=1
+while i<=5:
+    print(i,end="")
+    j=5
+    while j>=1:
+        print(j,end="")
+        j-=1
+    i+=1
+    print()
+
