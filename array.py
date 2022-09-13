@@ -13,3 +13,4 @@ for e in range(len(newar)):
         continue
     print(newar[e])
     print("hello")
+    print("het")
