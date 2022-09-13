@@ -5,3 +5,4 @@ arr=array([
 ])
 print("hello")
 print(arr.ndim)
+print("hey nav")
